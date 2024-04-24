@@ -17,14 +17,15 @@
 <h2 align="center"> Meet the Author:</h2>
 <p align="center">
 
-<tr border="none">
-<a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=WildWestLegends&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildWestLegends&layout=compact&show_icons=true&theme=dark" /></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=WildWestLegends&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=WildWestLegends&show_icons=true&theme=dark" /></td>
+      <td><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildWestLegends&layout=compact&show_icons=true&theme=dark" /></td>
+      <td><img height="200px" title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildWestLegends&theme=dark&hide_border=false" /></td>
+    </tr>
+  </table>
 </div>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
